@@ -8,6 +8,9 @@ Task 1 @ Elevvo ML Internship
 4. Split the dataset into training and testing set.
 5. Train a linear regression model to estimate final scores.
 6. Visualize predictions and evaluate model performance.
+### Bonus:
+1. Try polynomial regression and compare performance .
+2. Try experimenting with different feature combinations (e.g., removing or adding features like sleep, participation, etc.).
 
 ## Dataset
 - [Student Score Dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
