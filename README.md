@@ -17,3 +17,10 @@ Task 1 @ Elevvo ML Internship
 
 ## Notebook
 - [Student Score Prediction](https://github.com/Asma-Nasr/Student-Score-Prediction/blob/main/student_score_prediction.ipynb)
+
+## Performance Comparison
+
+| Models                     | MSE       | R^2        |
+|---------------------------|-----------|-----------|
+| Model1 with outliers      | 5.082608  | 0.667794  |
+| Model2 without outliers    | 1.255329  | 0.875017  |
