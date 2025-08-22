@@ -16,4 +16,4 @@ Task 1 @ Elevvo ML Internship
 - [Student Score Dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
 
 ## Notebook
-- [Student Score Prediction]()
+- [Student Score Prediction](https://github.com/Asma-Nasr/Student-Score-Prediction/blob/main/student_score_prediction.ipynb)
